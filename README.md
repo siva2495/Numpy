@@ -1,7 +1,6 @@
-# Numpy
+# Numpy Library Basics
 NumPy library in Python
 
-NumPy Library:
 NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 •	A powerful N-dimentional array object
 •	Sophisticated (Broadcasting) functions
